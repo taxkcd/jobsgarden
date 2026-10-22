@@ -19,5 +19,5 @@ One page per role with an outreach draft, newest week first.
 - [AI/ML Engineer — The Agency Fund](jobs/007-the-agency-fund-ai-ml-engineer) · drafted · 79.8/100
 - [Senior Backend Engineer — DuckDuckGo](jobs/008-duckduckgo-senior-backend-engineer) · drafted · 79.0/100
 - [Senior Software Engineer II Applied AI — Wrapbook](jobs/009-wrapbook-senior-software-engineer-ii-applied-ai) · drafted · 78.7/100
-- [Senior Software Engineer, Agents — RevenueCat](jobs/010-revenuecat-senior-software-engineer-agents) · researching · 77.0/100
+- [Senior Software Engineer, Agents — RevenueCat](jobs/010-revenuecat-senior-software-engineer-agents) · drafted · 77.0/100
 - [Senior Backend Engineer - Full Stack — packagex](jobs/002-packagex-senior-backend-engineer-full-stack) · drafted · 76.2/100

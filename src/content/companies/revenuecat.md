@@ -74,4 +74,4 @@ Nobody named on the company's own pages.
 
 ## Roles tracked
 
-- [Senior Software Engineer, Agents · researching](jobs/010-revenuecat-senior-software-engineer-agents)
+- [Senior Software Engineer, Agents · drafted](jobs/010-revenuecat-senior-software-engineer-agents)
