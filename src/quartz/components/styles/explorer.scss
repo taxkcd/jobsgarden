@@ -1,0 +1,190 @@
+button#explorer {
+  all: unset;
+  background-color: transparent;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  padding: 0;
+  color: var(--dark);
+  display: flex;
+  align-items: center;
+
+  & h1 {
+    font-size: 1rem;
+    display: inline-block;
+    margin: 0;
+  }
+
+  & .fold {
+    margin-left: 0.5rem;
+    transition: transform 0.3s ease;
+    opacity: 0.8;
+  }
+
+  &.collapsed .fold {
+    transform: rotateZ(-90deg);
+  }
+}
+
+// let the explorer grow to fill the remaining vertical space in the sidebar
+.explorer {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.folder-outer {
+  display: grid;
+  grid-template-rows: 0fr;
+  transition: grid-template-rows 0.3s ease-in-out;
+}
+
+.folder-outer.open {
+  grid-template-rows: 1fr;
+}
+
+.folder-outer > ul {
+  overflow: hidden;
+}
+
+#explorer-content {
+  list-style: none;
+  overflow: hidden;
+  max-height: none;
+  transition: max-height 0.35s ease;
+  margin-top: 0.5rem;
+  // fill the explorer's height and let the list itself scroll
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+
+  & > ul.overflow {
+    flex: 1 1 auto;
+    min-height: 0;
+    max-height: none;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+
+  &.collapsed > .overflow::after {
+    opacity: 0;
+  }
+
+  & ul {
+    list-style: none;
+    margin: 0.08rem 0;
+    padding: 0;
+    transition:
+      max-height 0.35s ease,
+      transform 0.35s ease,
+      opacity 0.2s ease;
+    & li > a {
+      color: var(--dark);
+      opacity: 0.75;
+      pointer-events: all;
+      // keep each entry on a single line, like a table of contents
+      display: block;
+      max-width: 100%;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+}
+
+svg {
+  pointer-events: all;
+
+  & > polyline {
+    pointer-events: none;
+  }
+}
+
+.folder-container {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  user-select: none;
+
+  // let the title container shrink so its text can truncate instead of wrapping
+  & > div {
+    min-width: 0;
+    flex: 1 1 auto;
+  }
+
+  & div > a {
+    color: var(--secondary);
+    font-family: var(--headerFont);
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.5rem;
+    display: block;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  & div > a:hover {
+    color: var(--tertiary);
+  }
+
+  & div > button {
+    color: var(--dark);
+    background-color: transparent;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    padding-left: 0;
+    padding-right: 0;
+    display: block;
+    max-width: 100%;
+    min-width: 0;
+    font-family: var(--headerFont);
+
+    & p {
+      font-size: 0.95rem;
+      display: block;
+      max-width: 100%;
+      color: var(--secondary);
+      font-weight: 600;
+      margin: 0;
+      line-height: 1.5rem;
+      pointer-events: none;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+}
+
+.folder-icon {
+  margin-right: 5px;
+  color: var(--secondary);
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  backface-visibility: visible;
+  flex-shrink: 0;
+}
+
+div:has(> .folder-outer:not(.open)) > .folder-container > svg {
+  transform: rotate(-90deg);
+}
+
+.folder-icon:hover {
+  color: var(--tertiary);
+}
+
+.no-background::after {
+  background: none !important;
+}
+
+#explorer-end {
+  // needs height so IntersectionObserver gets triggered
+  height: 4px;
+  // remove default margin from li
+  margin: 0;
+}
