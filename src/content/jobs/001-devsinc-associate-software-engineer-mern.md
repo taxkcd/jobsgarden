@@ -99,7 +99,8 @@ Compensation: not stated
 ## The outreach
 
 - **Written to:** no address with evidence; the note is pasted where the role was seen
-- **Subject:** at | Taimour Afzal, backend engineer (Rails, TypeScript, LLM agents)
+- **Subject:** \[no address\] Associate Software Engineer- MERN at Devsinc | Taimour Afzal
+- **Gmail draft:** [open](https://mail.google.com/mail/u/0/?authuser=taimourz.work@gmail.com#drafts/1a16573bb249fa5f) (his mailbox only)
 - **Brief (Google Doc):** [open](https://docs.google.com/document/d/1y2dKw_GiqPzRazddpgBld5vTrWlsnKhIvpul0bZabgU/edit?tab=t.0) (his Drive only)
 
 ## People found at the company
@@ -119,11 +120,11 @@ Compensation: not stated
 
 ## History
 
-- 2026-10-22 · shortlisted
-- 2026-10-22 · researching
-- 2026-10-22 · dossier_ready
 - 2026-10-22 · drafted — no address with evidence; the draft is text to paste
 - 2026-10-22 · researching
 - 2026-10-22 · researching — the source changed the description
 - 2026-10-22 · dossier_ready
 - 2026-10-22 · drafted — no address with evidence; the draft is text to paste
+- 2026-10-22 · researching
+- 2026-10-22 · dossier_ready
+- 2026-10-22 · drafted — no address with evidence; the draft is text to paste (unaddressed Gmail draft)

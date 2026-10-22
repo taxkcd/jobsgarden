@@ -117,7 +117,8 @@ Compensation: not stated
 ## The outreach
 
 - **Written to:** no address with evidence; the note is pasted where the role was seen
-- **Subject:** at | Taimour Afzal, backend engineer (Rails, TypeScript, LLM agents)
+- **Subject:** \[no address\] Senior Backend Engineer - Full Stack at VisionX (PackageX) | Taimour Afzal
+- **Gmail draft:** [open](https://mail.google.com/mail/u/0/?authuser=taimourz.work@gmail.com#drafts/1a165743d333e660) (his mailbox only)
 - **Brief (Google Doc):** [open](https://docs.google.com/document/d/1y2dKw_GiqPzRazddpgBld5vTrWlsnKhIvpul0bZabgU/edit?tab=t.ahl5o5kox7wq) (his Drive only)
 
 ## History
@@ -126,3 +127,6 @@ Compensation: not stated
 - 2026-10-22 · researching
 - 2026-10-22 · dossier_ready
 - 2026-10-22 · drafted — no address with evidence; the draft is text to paste
+- 2026-10-22 · researching
+- 2026-10-22 · dossier_ready
+- 2026-10-22 · drafted — no address with evidence; the draft is text to paste (unaddressed Gmail draft)
