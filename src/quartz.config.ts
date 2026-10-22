@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "taxkcd.github.io/jobs",
+    baseUrl: "taxkcd.github.io/jobsgarden",
     ignorePatterns: ["private", ".obsidian"],
     defaultDateType: "created",
     theme: {

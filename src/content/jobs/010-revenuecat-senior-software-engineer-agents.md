@@ -3,13 +3,13 @@ title: "010 · Senior Software Engineer, Agents — RevenueCat"
 date: 2026-10-22
 tags:
   - job-outreach
-  - draft-review
+  - researching
   - revenuecat
   - 2026-w43
 draft: false
 job_id: "jobicy-156026"
-company_id: "supabase"
-status: "draft_review"
+company_id: "revenuecat"
+status: "researching"
 sequence: 10
 generator: "job-garden: managed"
 ---
@@ -18,13 +18,13 @@ generator: "job-garden: managed"
 
 ## At a glance
 
-- **Company:** [Supabase](companies/supabase)
+- **Company:** [RevenueCat](companies/revenuecat)
 - **Role:** Senior Software Engineer, Agents
 - **Posting:** [https://jobicy.com/jobs/156026-senior-software-engineer-agents-2](https://jobicy.com/jobs/156026-senior-software-engineer-agents-2)
 - **Where:** maybe: region latam, emea may or may not include Pakistan
 - **Posted:** 2026-10-20 · open at the employer: listed
 - **Score:** 77.0 / 100 (strong)
-- **Status:** draft_review · week 2026-W43
+- **Status:** researching · week 2026-W43
 
 ## Why it fits (and what it does not)
 
@@ -114,13 +114,10 @@ Compensation: Competitive equity in a fast-growing, Series C startup; 10-year wi
 - **Brief (Google Doc):** [open](https://docs.google.com/document/d/1y2dKw_GiqPzRazddpgBld5vTrWlsnKhIvpul0bZabgU/edit?tab=t.p7bksijpdng0) (his Drive only)
 - **Held:** The posting is not for Supabase. The source says the role is at RevenueCat, found on Jobicy. This changes the source and misidentifies the company. ("I will apply through the posting link for the Senior Software Engineer, Agents role on Jobicy."); This company-specific sentence is about Supabase, but the source role is at RevenueCat. It uses the wrong company and hook. ("Supabase’s platform includes Postgres, data APIs and vector embeddings, which makes it a useful setting for agent produc")
 
-## People found at the company
-
-- **Marcus Rivera** — Chief Revenue Officer · no address found · [source](https://jobgether.com/offer/6ad2de0654e9d29711e405dd-agentic-ai-python-engineer)
-
 ## History
 
 - 2026-10-22 · shortlisted
 - 2026-10-22 · researching
 - 2026-10-22 · dossier_ready
 - 2026-10-22 · draft_review — draft held: The posting is not for Supabase. The source says the role is at RevenueCat, found on Jobicy. This changes the source and misidentifies the company. ("I will apply through the posting link for the Seni
+- 2026-10-22 · researching
