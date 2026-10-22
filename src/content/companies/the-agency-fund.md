@@ -73,4 +73,4 @@ Nobody named on the company's own pages.
 
 ## Roles tracked
 
-- [AI/ML Engineer · drafted](jobs/007-the-agency-fund-ai-ml-engineer)
+- [AI/ML Engineer](jobs/007-the-agency-fund-ai-ml-engineer)

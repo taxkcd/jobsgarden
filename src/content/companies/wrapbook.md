@@ -73,4 +73,4 @@ Nobody named on the company's own pages.
 
 ## Roles tracked
 
-- [Senior Software Engineer II Applied AI · drafted](jobs/009-wrapbook-senior-software-engineer-ii-applied-ai)
+- [Senior Software Engineer II Applied AI](jobs/009-wrapbook-senior-software-engineer-ii-applied-ai)

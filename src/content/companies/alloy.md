@@ -73,4 +73,4 @@ Nobody named on the company's own pages.
 
 ## Roles tracked
 
-- [Founding Forward Deployed Engineer · drafted](jobs/006-alloy-founding-forward-deployed-engineer)
+- [Founding Forward Deployed Engineer](jobs/006-alloy-founding-forward-deployed-engineer)

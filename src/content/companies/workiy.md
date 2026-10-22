@@ -73,4 +73,4 @@ Nobody named on the company's own pages.
 
 ## Roles tracked
 
-- [Agentic AI / Python Engineer · drafted](jobs/005-workiy-inc-agentic-ai-python-engineer)
+- [Agentic AI / Python Engineer](jobs/005-workiy-inc-agentic-ai-python-engineer)

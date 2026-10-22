@@ -83,4 +83,4 @@ Nobody named on the company's own pages.
 
 ## Roles tracked
 
-- [Senior Backend Engineer - Full Stack · drafted](jobs/002-packagex-senior-backend-engineer-full-stack)
+- [Senior Backend Engineer - Full Stack](jobs/002-packagex-senior-backend-engineer-full-stack)

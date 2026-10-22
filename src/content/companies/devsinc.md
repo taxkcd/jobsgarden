@@ -107,4 +107,4 @@ Recent developments the pages name:
 
 ## Roles tracked
 
-- [Associate Software Engineer- MERN · drafted](jobs/001-devsinc-associate-software-engineer-mern)
+- [Associate Software Engineer- MERN](jobs/001-devsinc-associate-software-engineer-mern)

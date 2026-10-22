@@ -73,4 +73,4 @@ Nobody named on the company's own pages.
 
 ## Roles tracked
 
-- [Senior Backend Engineer · drafted](jobs/008-duckduckgo-senior-backend-engineer)
+- [Senior Backend Engineer](jobs/008-duckduckgo-senior-backend-engineer)

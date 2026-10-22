@@ -74,5 +74,5 @@ Nobody named on the company's own pages.
 
 ## Roles tracked
 
-- [Full-Stack Engineer (Backend Leaning) - Creative Agents · drafted](jobs/003-elevenlabs-full-stack-engineer-backend-leaning-creative-age)
-- [Full-Stack Engineer - Creative Agents · drafted](jobs/004-elevenlabs-full-stack-engineer-creative-agents)
+- [Full-Stack Engineer (Backend Leaning) - Creative Agents](jobs/003-elevenlabs-full-stack-engineer-backend-leaning-creative-age)
+- [Full-Stack Engineer - Creative Agents](jobs/004-elevenlabs-full-stack-engineer-creative-agents)
