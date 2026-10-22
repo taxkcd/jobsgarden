@@ -112,22 +112,18 @@ Compensation: Not competing with big-tech salaries; competitive within mission-d
 
 ## The outreach
 
-- **Written to:** Marcus Rivera (Chief Revenue Officer) — address found on [their own pages](https://jobgether.com/offer/6ad6b685a8fae18ba2cee7da-ai-ml-engineer)
-- **Subject:** AI/ML Engineer at The Agency Fund | Taimour Afzal, backend engineer (Rails, TypeScript, LLM agents)
-- **Gmail draft:** [open](https://mail.google.com/mail/u/0/?authuser=taimourz.work@gmail.com#drafts/1a1656d0d43ba288) (his mailbox only)
+- **Written to:** no address with evidence; the note is pasted where the role was seen
+- **Subject:** \[no address\] AI/ML Engineer at The Agency Fund | Taimour Afzal
+- **Gmail draft:** [open](https://mail.google.com/mail/u/0/?authuser=taimourz.work@gmail.com#drafts/1a165723a52b149c) (his mailbox only)
 - **Brief (Google Doc):** [open](https://docs.google.com/document/d/1y2dKw_GiqPzRazddpgBld5vTrWlsnKhIvpul0bZabgU/edit?tab=t.6j2ylqbw7w65) (his Drive only)
-
-## People found at the company
-
-- **Marcus Rivera** — Chief Revenue Officer · address found · [source](https://jobgether.com/offer/6ad6b685a8fae18ba2cee7da-ai-ml-engineer)
 
 ## History
 
-- 2026-10-22 · dossier_ready
-- 2026-10-22 · draft_review — draft held: The role in the source is at The Agency Fund, not Supabase. As written, the email is to the wrong company about the wrong role. ("I will apply through the Jobgether posting for the AI/ML Engineer role
-- 2026-10-22 · researching
 - 2026-10-22 · dossier_ready
 - 2026-10-22 · drafted — no address with evidence; the draft is text to paste (unaddressed Gmail draft)
 - 2026-10-22 · researching
 - 2026-10-22 · dossier_ready
 - 2026-10-22 · drafted — draft for \[address withheld\]
+- 2026-10-22 · researching
+- 2026-10-22 · dossier_ready
+- 2026-10-22 · drafted — no address with evidence; the draft is text to paste (unaddressed Gmail draft)

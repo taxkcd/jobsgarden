@@ -105,22 +105,18 @@ Compensation: not stated
 
 ## The outreach
 
-- **Written to:** Marcus Rivera (Chief Revenue Officer) — address found on [their own pages](https://jobgether.com/offer/6ad2de0654e9d29711e405dd-agentic-ai-python-engineer)
-- **Subject:** Agentic AI / Python Engineer at Workiy Inc. | Taimour Afzal, backend engineer (Rails, TypeScript, LLM agents)
-- **Gmail draft:** [open](https://mail.google.com/mail/u/0/?authuser=taimourz.work@gmail.com#drafts/1a1656ac709f2549) (his mailbox only)
+- **Written to:** no address with evidence; the note is pasted where the role was seen
+- **Subject:** \[no address\] Agentic AI / Python Engineer at Workiy Inc. | Taimour Afzal
+- **Gmail draft:** [open](https://mail.google.com/mail/u/0/?authuser=taimourz.work@gmail.com#drafts/1a16571adc230bff) (his mailbox only)
 - **Brief (Google Doc):** [open](https://docs.google.com/document/d/1y2dKw_GiqPzRazddpgBld5vTrWlsnKhIvpul0bZabgU/edit?tab=t.6dpwxxikyo82) (his Drive only)
-
-## People found at the company
-
-- **Marcus Rivera** — Chief Revenue Officer · address found · [source](https://jobgether.com/offer/6ad2de0654e9d29711e405dd-agentic-ai-python-engineer)
 
 ## History
 
-- 2026-10-22 · dossier_ready
-- 2026-10-22 · draft_review — draft held: The role in the source is at Workiy Inc. for an opportunity with Cognizant, not at Supabase. This sentence also uses Supabase company facts that do not connect to the actual posting source. ("Supabase
-- 2026-10-22 · researching
 - 2026-10-22 · dossier_ready
 - 2026-10-22 · draft_review — draft held: The email is addressed to Supabase, but the role in the source is at Workiy Inc. This changes who the reader is and conflicts with the task/source. ("Hello Supabase team,")
 - 2026-10-22 · researching
 - 2026-10-22 · dossier_ready
 - 2026-10-22 · drafted — draft for \[address withheld\]
+- 2026-10-22 · researching
+- 2026-10-22 · dossier_ready
+- 2026-10-22 · drafted — no address with evidence; the draft is text to paste (unaddressed Gmail draft)

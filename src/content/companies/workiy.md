@@ -69,7 +69,7 @@ Recent developments the pages name:
 
 ## People found
 
-- **Marcus Rivera** — Chief Revenue Officer · address found · [source](https://jobgether.com/offer/6ad2de0654e9d29711e405dd-agentic-ai-python-engineer)
+Nobody named on the company's own pages.
 
 ## Roles tracked
 

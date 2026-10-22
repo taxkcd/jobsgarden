@@ -69,7 +69,7 @@ Recent developments the pages name:
 
 ## People found
 
-- **Marcus Rivera** — Chief Revenue Officer · address found · [source](https://jobgether.com/offer/6ad6b685a8fae18ba2cee7da-ai-ml-engineer)
+Nobody named on the company's own pages.
 
 ## Roles tracked
 
