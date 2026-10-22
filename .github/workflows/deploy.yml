@@ -21,10 +21,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Enable GitHub Pages (first deploy of a new repo)
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - uses: actions/setup-node@v4
         with:
           node-version: 22
