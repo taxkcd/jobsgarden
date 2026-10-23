@@ -9,4 +9,4 @@ tags:
 
 Recruiters and hiring contacts: what they publish about themselves and what they recruit for.
 
-- [Areesha Waheed](people/areesha-waheed) — International Recruiter
+- [Areesha Waheed](people/areesha-waheed) — Head of Human Resources, Tech Solutions.ae
