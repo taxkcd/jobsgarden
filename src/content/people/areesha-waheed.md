@@ -52,7 +52,7 @@ HR leader with 5+ years in the IT sector, working in international recruitment, 
 
 ## Recognition
 
-- Featured by Spotlight Hub (Aug 2026), TrendSee (Jun 2026), Inspired Pakistan (Dec 2024, Jan 2025), Icons Pakistan (Sep 2024)
+- Featured by Spotlight Hub (Aug 2026), TrendSee (Jun 2026), Inspired Pakistan (Jan 2025), Icons Pakistan (Sep 2024)
 - Recognized among #MadeInPakistanLeaders in talent acquisition
 - Described by Icons Pakistan as among the top 10 LinkedIn influencers in Pakistan
 
