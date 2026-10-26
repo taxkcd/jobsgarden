@@ -12,6 +12,7 @@ One page per role, by the week it was found; newest first.
 
 ## 2026-W44
 
+- [Senior Software Engineer — Klardaten](jobs/012-klardaten-senior-software-engineer)
 - [Senior Software Engineer — Tebra](jobs/011-tebra-senior-software-engineer)
 
 ## 2026-W43

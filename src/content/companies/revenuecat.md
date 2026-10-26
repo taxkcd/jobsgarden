@@ -13,6 +13,8 @@ generator: "job-garden: managed"
 
 ## At a glance
 
+- **Careers:** [https://jobs.ashbyhq.com/revenuecat?utm_source=9NM1deAR5N&workplaceType=Remote](https://jobs.ashbyhq.com/revenuecat?utm_source=9NM1deAR5N&workplaceType=Remote)
+- **Job boards:** ashby:revenuecat
 
 ## What it builds
 

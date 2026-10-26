@@ -18,10 +18,12 @@ generator: "job-garden: managed"
 
 - **Company:** [RevenueCat](companies/revenuecat)
 - **Role:** Senior Software Engineer, Agents
-- **Posting:** [https://jobicy.com/jobs/156026-senior-software-engineer-agents-2](https://jobicy.com/jobs/156026-senior-software-engineer-agents-2)
-- **Where:** remote · EMEA, LATAM, Canada, USA
-- **Posted:** 2026-10-20 · open at the employer: listed
-- **Type:** Full-Time
+- **Posting:** [https://jobs.ashbyhq.com/revenuecat/76a39fe0-eb34-4def-b462-7b0f9de80961](https://jobs.ashbyhq.com/revenuecat/76a39fe0-eb34-4def-b462-7b0f9de80961)
+- **Apply:** [application form](https://jobs.ashbyhq.com/revenuecat/76a39fe0-eb34-4def-b462-7b0f9de80961/application)
+- **Where:** remote · Americas; EMEA
+- **Posted:** 2026-09-02 · open at the employer: listed
+- **Type:** FullTime
+- **Compensation:** $230K • Offers Equity
 - **Seen on:** Jobicy: https://jobicy.com/jobs/156026-senior-software-engineer-agents-2
 
 ## The role
