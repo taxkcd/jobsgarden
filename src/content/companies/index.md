@@ -10,14 +10,4 @@ generator: "job-garden: managed"
 
 Every company with a drafted role: what it builds, its boards, the people found on its pages.
 
-- [Alloy](companies/alloy)
-- [Devsinc](companies/devsinc)
-- [DuckDuckGo](companies/duckduckgo)
-- [Elevenlabs](companies/elevenlabs)
 - [Klardaten](companies/klardaten)
-- [RevenueCat](companies/revenuecat)
-- [Tebra](companies/tebra)
-- [The Agency Fund](companies/the-agency-fund)
-- [VisionX (PackageX)](companies/visionx)
-- [Workiy Inc.](companies/workiy)
-- [Wrapbook](companies/wrapbook)

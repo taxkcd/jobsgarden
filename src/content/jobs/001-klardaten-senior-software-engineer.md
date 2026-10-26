@@ -1,5 +1,5 @@
 ---
-title: "012 · Senior Software Engineer — Klardaten"
+title: "001 · Senior Software Engineer — Klardaten"
 date: 2026-10-26
 tags:
   - job
@@ -8,11 +8,11 @@ tags:
 draft: false
 job_id: "remoteok-1137571"
 company_id: "klardaten"
-sequence: 12
+sequence: 1
 generator: "job-garden: managed"
 ---
 
-# 012 · Senior Software Engineer — Klardaten
+# 001 · Senior Software Engineer — Klardaten
 
 ## At a glance
 
