@@ -1,8 +1,9 @@
 ---
 title: "People"
-date: 2026-10-23
+date: 2026-10-26
 tags:
   - person
+generator: "job-garden: managed"
 ---
 
 # People

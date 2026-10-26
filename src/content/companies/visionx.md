@@ -1,6 +1,6 @@
 ---
 title: "VisionX (PackageX)"
-date: 2026-10-22
+date: 2026-10-26
 tags:
   - company
   - job-outreach
@@ -16,16 +16,6 @@ generator: "job-garden: managed"
 - **Website:** [https://visionx.io](https://visionx.io)
 - **Careers:** [https://visionx.io/careers](https://visionx.io/careers)
 - **Job boards:** lever:packagex
-
-Built 2026-10-22T15:14:50+00:00 by job-outreach from the company's own pages: https://visionx.io (ok), https://visionx.io/about-us (ok), https://visionx.io/careers (ok).
-
-
-- website: https://visionx.io
-- careers: https://visionx.io/careers
-- job boards: lever:packagex (ok)
-- operating: yes (3 page(s) answered)
-- size: not stated
-- locations: Islamabad, Pakistan (office location from careers page)
 
 ## What it builds
 
@@ -50,27 +40,10 @@ Teams and product areas:
 
 ## Hiring
 
-Open engineering roles we know (from its job board, this ledger):
-- Senior Backend Engineer - Full Stack · Islamabad,PK · https://jobs.lever.co/packagex/562dbe08-be73-49cb-87c4-35beda715594
-
 Remote hiring: not stated
-
-Pakistan / region: Has on-site job openings in Islamabad, Pakistan including Senior Backend Engineer and other roles (https://visionx.io/careers) (unverified: no quote found on the pages)
 
 Recent developments the pages name:
 - In production since 2017 (https://visionx.io/about-us)
-
-## Why it might fit
-
-- Builds Vision AI models and agentic apps that integrate with existing systems, suitable for engineers interested in AI and system integration (https://visionx.io/about-us)
-- Has open backend and full-stack engineering roles in Islamabad, Pakistan, matching experience level (https://visionx.io/careers)
-- Focus on AI agents that act with human approval aligns with building LLM agent tools (https://visionx.io)
-
-## Warnings, unknowns, disqualifiers
-
-- No explicit technology stack mentioned on pages
-- No mention of remote work or hiring outside Pakistan
-- No stated company size or funding details
 
 ## Evidence
 
@@ -83,4 +56,4 @@ Nobody named on the company's own pages.
 
 ## Roles tracked
 
-- [Senior Backend Engineer - Full Stack](jobs/002-packagex-senior-backend-engineer-full-stack)
+- [Senior Backend Engineer - Full Stack](jobs/002-visionx-packagex-senior-backend-engineer-full-stack)

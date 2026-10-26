@@ -1,9 +1,9 @@
 ---
-title: "002 · Senior Backend Engineer - Full Stack — packagex"
+title: "002 · Senior Backend Engineer - Full Stack — VisionX (PackageX)"
 date: 2026-10-22
 tags:
   - job
-  - packagex
+  - visionx-packagex
   - 2026-w43
 draft: false
 job_id: "lever-packagex-562dbe08-be73-49cb-87c4-35beda715594"
@@ -12,7 +12,7 @@ sequence: 2
 generator: "job-garden: managed"
 ---
 
-# 002 · Senior Backend Engineer - Full Stack — packagex
+# 002 · Senior Backend Engineer - Full Stack — VisionX (PackageX)
 
 ## At a glance
 

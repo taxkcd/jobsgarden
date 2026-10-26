@@ -22,7 +22,8 @@ generator: "job-garden: managed"
 - **Apply:** [application form](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527)
 - **Where:** remote
 - **Posted:** 2026-10-15 · open at the employer: listed
-- **Seen on:** Remote OK: https://remoteok.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
+- **Type:** Full-Time
+- **Seen on:** Remote OK: https://remoteok.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527; Jobicy: https://jobicy.com/jobs/157182-senior-software-engineer-ii-applied-ai
 
 ## The role
 
