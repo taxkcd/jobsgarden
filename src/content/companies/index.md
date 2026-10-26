@@ -10,4 +10,12 @@ generator: "job-garden: managed"
 
 Every company with a drafted role: what it builds, its boards, the people found on its pages.
 
+- [Binance](companies/binance)
+- [Constructor](companies/constructor)
+- [Devsinc](companies/devsinc)
 - [Klardaten](companies/klardaten)
+- [Relay](companies/relay)
+- [Spotter Labs](companies/spotter)
+- [Supabase](companies/supabase)
+- [Toptal](companies/toptal)
+- [Typeform](companies/typeform)
