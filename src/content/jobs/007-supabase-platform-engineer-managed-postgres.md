@@ -58,3 +58,7 @@ Team and product context: Supabase is a globally distributed, open-source-first 
 Work model, location, authorization: Fully Remote. We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.
 
 Compensation: ESOP (equity ownership), Tech Allowance, Health Benefits (100% employee, 80% dependents), Annual Off-Sites, Flexible Work, Professional Development allowance.
+
+## People found at the company
+
+- [Zach Choquette](people/zach-choquette) — Talent @ Supabase · no address found

@@ -82,7 +82,7 @@ Recent developments the pages name:
 
 ## People found
 
-Nobody named on the company's own pages.
+- [Malik Musa](people/malik-musa) — other · address found
 
 ## Roles tracked
 

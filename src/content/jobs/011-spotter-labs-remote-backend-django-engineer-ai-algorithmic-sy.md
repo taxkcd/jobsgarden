@@ -58,3 +58,7 @@ Team and product context: Small distributed team across several countries, worki
 Work model, location, authorization: Remote from: Pakistan, India, Colombia, Argentina, Mexico, South America, North America, Asia, Latin America, South Asia, APAC; Full time; English language.
 
 Compensation: $100 bonus after successfully completing the assessment.
+
+## People found at the company
+
+- [Ena Ramic](people/ena-ramic) — Human Resources Recruiting Specialist at Spotter Labs · no address found

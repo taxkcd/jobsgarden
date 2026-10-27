@@ -68,7 +68,7 @@ Recent developments the pages name:
 
 ## People found
 
-Nobody named on the company's own pages.
+- [Zach Choquette](people/zach-choquette) — Talent @ Supabase · no address found
 
 ## Roles tracked
 

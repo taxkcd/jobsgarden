@@ -1,5 +1,5 @@
 ---
-title: "Instech Sol (Pvt"
+title: "Instech Sol"
 date: 2026-10-27
 tags:
   - company
@@ -9,7 +9,7 @@ company_id: "instech-sol"
 generator: "job-garden: managed"
 ---
 
-# Instech Sol (Pvt
+# Instech Sol
 
 ## At a glance
 
@@ -80,4 +80,4 @@ Nobody named on the company's own pages.
 
 ## Roles tracked
 
-- [Developer](jobs/017-instech-sol-pvt-developer)
+- [Developer](jobs/017-instech-sol-developer)

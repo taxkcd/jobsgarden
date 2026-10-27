@@ -17,7 +17,7 @@ Every company with a drafted role: what it builds, its boards, the people found 
 - [Constructor](companies/constructor)
 - [Devsinc](companies/devsinc)
 - [Funavry Technologies](companies/funavry)
-- [Instech Sol (Pvt](companies/instech-sol)
+- [Instech Sol](companies/instech-sol)
 - [Klardaten](companies/klardaten)
 - [Multisyn Tech](companies/multisyn-tech)
 - [NovaSync Dynamics](companies/novasync-dynamics)

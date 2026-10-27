@@ -22,3 +22,7 @@ generator: "job-garden: managed"
 - **Where:** onsite · Islamabad
 - **Posted:** unknown · open at the employer: not checked
 - **Seen on:** lead-finder binarymarvels-com
+
+## People found at the company
+
+- [Malik Musa](people/malik-musa) — other · address found

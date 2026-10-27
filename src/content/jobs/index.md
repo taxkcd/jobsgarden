@@ -19,7 +19,7 @@ One page per role, by the week it was found; newest first.
 - [Integration Engineer (EMEA) — Constructor](jobs/006-constructor-integration-engineer-emea)
 - [Associate Software Engineer- MERN — Devsinc](jobs/014-devsinc-associate-software-engineer-mern)
 - [Full Stack Developer (MEAN + MERN) — Funavry Technologies](jobs/021-funavry-technologies-full-stack-developer-mean-mern)
-- [Developer — Instech Sol (Pvt](jobs/017-instech-sol-pvt-developer)
+- [Developer — Instech Sol](jobs/017-instech-sol-developer)
 - [Senior Software Engineer — Klardaten](jobs/001-klardaten-senior-software-engineer)
 - [Full Stack Developer (Node.js + React/Next.js) — Multisyn Tech](jobs/022-multisyn-tech-full-stack-developer-node-js-react-next-js)
 - [MERN Stack Developer — NovaSync Dynamics](jobs/023-novasync-dynamics-mern-stack-developer)

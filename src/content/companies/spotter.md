@@ -16,7 +16,7 @@ generator: "job-garden: managed"
 
 ## People found
 
-Nobody named on the company's own pages.
+- [Ena Ramic](people/ena-ramic) — Human Resources Recruiting Specialist at Spotter Labs · no address found
 
 ## Roles tracked
 

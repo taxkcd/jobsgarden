@@ -60,3 +60,7 @@ Team and product context: Supabase Storage is one of the fastest growing service
 Work model, location, authorization: Fully Remote; We hire globally. We believe you can do your best work from anywhere. There are no Supabase offices, but we provide a WeWork membership or co-working allowance you can use anywhere in the world.
 
 Compensation: ESOP (equity ownership), tech allowance, health benefits covering 100% employee and 80% dependents, annual off-sites, flexible work, and professional development allowance.
+
+## People found at the company
+
+- [Zach Choquette](people/zach-choquette) — Talent @ Supabase · no address found

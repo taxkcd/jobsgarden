@@ -1,9 +1,9 @@
 ---
-title: "017 · Developer — Instech Sol (Pvt"
+title: "017 · Developer — Instech Sol"
 date: 2026-10-27
 tags:
   - job
-  - instech-sol-pvt
+  - instech-sol
   - 2026-w44
 draft: false
 job_id: "careers-page-8702e720832d"
@@ -12,11 +12,11 @@ sequence: 17
 generator: "job-garden: managed"
 ---
 
-# 017 · Developer — Instech Sol (Pvt
+# 017 · Developer — Instech Sol
 
 ## At a glance
 
-- **Company:** [Instech Sol (Pvt](companies/instech-sol)
+- **Company:** [Instech Sol](companies/instech-sol)
 - **Role:** Developer
 - **Posting:** [https://instechsol.com/careers](https://instechsol.com/careers)
 - **Where:** onsite · Islamabad

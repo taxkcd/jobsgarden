@@ -9,6 +9,8 @@ Pages are written by the `job-outreach` job (`atuin scripts run job-outreach`) a
 ## Sections
 
 - [[jobs/index|Jobs]] — one page per drafted role: why it fits, the role, who was written to
+- [[days/index|Days]] — what was processed each day: the people and the companies
+- [[people/index|People]] — the people written to by name: their hiring post and what they publish
 - [[companies/index|Companies]] — what each company builds, its job boards, the people found on its own pages
 
 > [!note] How this stays alive

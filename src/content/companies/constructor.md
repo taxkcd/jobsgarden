@@ -63,7 +63,7 @@ Recent developments the pages name:
 
 ## People found
 
-- **Manaswini Talagadadivi** — Engineering · no address found · [source](https://constructor.com/about)
+- [Manaswini Talagadadivi](people/manaswini-talagadadivi) — Engineering · no address found
 - **Eli Finkelshteyn** — Chief Executive Officer · no address found · [source](https://constructor.com/about)
 - **Dan McCormick** — Chief Information Security Officer · no address found · [source](https://constructor.com/about)
 - **Jimmy Li** — Integration Engineer · no address found · [source](https://constructor.com/about)

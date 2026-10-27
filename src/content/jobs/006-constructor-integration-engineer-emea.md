@@ -57,7 +57,7 @@ Compensation: Base salary: $70k–$90k USD, depending on knowledge, skills, expe
 
 ## People found at the company
 
-- **Manaswini Talagadadivi** — Engineering · no address found · [source](https://constructor.com/about)
+- [Manaswini Talagadadivi](people/manaswini-talagadadivi) — Engineering · no address found
 - **Eli Finkelshteyn** — Chief Executive Officer · no address found · [source](https://constructor.com/about)
 - **Dan McCormick** — Chief Information Security Officer · no address found · [source](https://constructor.com/about)
 - **Jimmy Li** — Integration Engineer · no address found · [source](https://constructor.com/about)

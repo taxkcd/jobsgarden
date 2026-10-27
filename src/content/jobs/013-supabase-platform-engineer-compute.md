@@ -60,3 +60,7 @@ Flexible Work
 We operate asynchronously and trust you to manage your own time.
 
 Compensation: ESOP (equity ownership), Tech Allowance, Health Benefits (100% for employees, 80% for dependents), Annual Off-Sites, Professional Development allowance
+
+## People found at the company
+
+- [Zach Choquette](people/zach-choquette) — Talent @ Supabase · no address found

@@ -51,3 +51,7 @@ Team and product context: Data API Team focused on PostgREST and building develo
 Work model, location, authorization: Fully Remote; Supabase hires globally with no offices but provides WeWork membership or co-working allowance; operates asynchronously with flexible work hours.
 
 Compensation: ESOP (equity ownership), tech allowance, health benefits covering 100% employee and 80% dependents globally, annual off-sites, professional development allowance.
+
+## People found at the company
+
+- [Zach Choquette](people/zach-choquette) — Talent @ Supabase · no address found
