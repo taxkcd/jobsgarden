@@ -77,4 +77,4 @@ Nobody named on the company's own pages.
 
 ## Roles tracked
 
-- [Full Stack Developer (Node.js + React/Next.js)](jobs/022-multisyn-tech-full-stack-developer-node-js-react-next-js)
+- [Full Stack Developer (Node.js + React/Next.js)](jobs/001-multisyn-tech-full-stack-developer-node-js-react-next-js)

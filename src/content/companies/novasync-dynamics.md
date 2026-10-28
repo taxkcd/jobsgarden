@@ -67,4 +67,4 @@ Nobody named on the company's own pages.
 
 ## Roles tracked
 
-- [MERN Stack Developer](jobs/023-novasync-dynamics-mern-stack-developer)
+- [MERN Stack Developer](jobs/002-novasync-dynamics-mern-stack-developer)

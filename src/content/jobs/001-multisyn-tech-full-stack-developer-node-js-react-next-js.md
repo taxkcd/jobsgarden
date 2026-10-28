@@ -1,5 +1,5 @@
 ---
-title: "022 · Full Stack Developer (Node.js + React/Next.js) — Multisyn Tech"
+title: "001 · Full Stack Developer (Node.js + React/Next.js) — Multisyn Tech"
 date: 2026-10-27
 tags:
   - job
@@ -8,11 +8,11 @@ tags:
 draft: false
 job_id: "careers-page-2273b51754c2"
 company_id: "multisyn-tech"
-sequence: 22
+sequence: 1
 generator: "job-garden: managed"
 ---
 
-# 022 · Full Stack Developer (Node.js + React/Next.js) — Multisyn Tech
+# 001 · Full Stack Developer (Node.js + React/Next.js) — Multisyn Tech
 
 ## At a glance
 

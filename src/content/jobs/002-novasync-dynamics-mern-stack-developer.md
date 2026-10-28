@@ -1,5 +1,5 @@
 ---
-title: "023 · MERN Stack Developer — NovaSync Dynamics"
+title: "002 · MERN Stack Developer — NovaSync Dynamics"
 date: 2026-10-27
 tags:
   - job
@@ -8,11 +8,11 @@ tags:
 draft: false
 job_id: "careers-page-3c8e73ebad30"
 company_id: "novasync-dynamics"
-sequence: 23
+sequence: 2
 generator: "job-garden: managed"
 ---
 
-# 023 · MERN Stack Developer — NovaSync Dynamics
+# 002 · MERN Stack Developer — NovaSync Dynamics
 
 ## At a glance
 
