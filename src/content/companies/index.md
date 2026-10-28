@@ -10,5 +10,10 @@ generator: "job-garden: managed"
 
 Every company with a drafted role: what it builds, its boards, the people found on its pages.
 
+- [Datum Labs](companies/datum)
+- [FAH Consul-Tech](companies/fah-consul-tech)
 - [Multisyn Tech](companies/multisyn-tech)
 - [NovaSync Dynamics](companies/novasync-dynamics)
+- [Remote Raven](companies/remote-raven)
+- [Wagmo](companies/wagmo)
+- [Xenoverta](companies/xenoverta)
