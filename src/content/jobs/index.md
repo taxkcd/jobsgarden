@@ -1,6 +1,6 @@
 ---
 title: "Jobs"
-date: 2026-10-27
+date: 2026-10-28
 tags:
   - job-outreach
 generator: "job-garden: managed"
@@ -17,8 +17,10 @@ One page per role, by the week it was found; newest first.
 - [Full Stack Developer — Binary Marvels](jobs/020-binary-marvels-full-stack-developer)
 - [Senior AI Engineer — Code Ninety](jobs/016-code-ninety-senior-ai-engineer)
 - [Integration Engineer (EMEA) — Constructor](jobs/006-constructor-integration-engineer-emea)
+- [Senior AI Engineer — Datum Labs](jobs/024-datum-labs-senior-ai-engineer)
 - [Associate Software Engineer- MERN — Devsinc](jobs/014-devsinc-associate-software-engineer-mern)
 - [Full Stack Developer (MEAN + MERN) — Funavry Technologies](jobs/021-funavry-technologies-full-stack-developer-mean-mern)
+- [Full Stack Developer — Funprime Technology](jobs/025-funprime-technology-full-stack-developer)
 - [Developer — Instech Sol](jobs/017-instech-sol-developer)
 - [Senior Software Engineer — Klardaten](jobs/001-klardaten-senior-software-engineer)
 - [Full Stack Developer (Node.js + React/Next.js) — Multisyn Tech](jobs/022-multisyn-tech-full-stack-developer-node-js-react-next-js)
@@ -32,3 +34,4 @@ One page per role, by the week it was found; newest first.
 - [Platform Engineer, Managed Postgres — Supabase](jobs/007-supabase-platform-engineer-managed-postgres)
 - [Platform Engineer - Compute — Supabase](jobs/013-supabase-platform-engineer-compute)
 - [AI Engineer | Pakistan — Volga Partners](jobs/015-volga-partners-ai-engineer-pakistan)
+- [Full Stack Engineer — Xenoverta](jobs/026-xenoverta-full-stack-engineer)

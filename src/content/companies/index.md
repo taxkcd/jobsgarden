@@ -1,6 +1,6 @@
 ---
 title: "Companies"
-date: 2026-10-27
+date: 2026-10-28
 tags:
   - company
 generator: "job-garden: managed"
@@ -15,8 +15,10 @@ Every company with a drafted role: what it builds, its boards, the people found 
 - [Binary Marvels](companies/binary-marvels)
 - [Code Ninety](companies/code-ninety)
 - [Constructor](companies/constructor)
+- [Datum Labs](companies/datum)
 - [Devsinc](companies/devsinc)
 - [Funavry Technologies](companies/funavry)
+- [Funprime Technology](companies/funprime)
 - [Instech Sol](companies/instech-sol)
 - [Klardaten](companies/klardaten)
 - [Multisyn Tech](companies/multisyn-tech)
@@ -26,3 +28,4 @@ Every company with a drafted role: what it builds, its boards, the people found 
 - [Spotter Labs](companies/spotter)
 - [Supabase](companies/supabase)
 - [Volga Partners](companies/volga-partners)
+- [Xenoverta](companies/xenoverta)

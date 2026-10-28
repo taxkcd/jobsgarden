@@ -1,6 +1,6 @@
 ---
 title: "People"
-date: 2026-10-27
+date: 2026-10-28
 tags:
   - person
 generator: "job-garden: managed"
@@ -13,4 +13,5 @@ Recruiters and hiring contacts: what they publish about themselves and what they
 - [Ena Ramic](people/ena-ramic) — Human Resources Recruiting Specialist at Spotter Labs
 - [Malik Musa](people/malik-musa)
 - [Manaswini Talagadadivi](people/manaswini-talagadadivi) — Constructor
+- [Usama Baloch](people/usama-baloch) — Project Manager at FunPrime Technology
 - [Zach Choquette](people/zach-choquette) — Talent at Supabase

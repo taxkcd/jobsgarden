@@ -18,7 +18,9 @@ generator: "job-garden: managed"
 
 - **Company:** [Volga Partners](companies/volga-partners)
 - **Role:** AI Engineer | Pakistan
-- **Posting:** [https://pk.linkedin.com/jobs/view/ai-engineer-pakistan-at-volga-partners-4483381476](https://pk.linkedin.com/jobs/view/ai-engineer-pakistan-at-volga-partners-4483381476)
-- **Where:** onsite · Islamabad
-- **Posted:** 2026-10-25 · open at the employer: not checked
+- **Posting:** [https://apply.workable.com/volga-partners/j/2129823FCF/](https://apply.workable.com/volga-partners/j/2129823FCF/)
+- **Apply:** [application form](https://apply.workable.com/volga-partners/j/2129823FCF/apply/)
+- **Where:** hybrid · Islamabad, Islamabad Capital Territory, Pakistan
+- **Posted:** 2026-09-25 · open at the employer: not checked
+- **Type:** full
 - **Seen on:** lead-finder volgapartners-com
