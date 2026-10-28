@@ -1,6 +1,6 @@
 ---
 title: "Sefism"
-date: 2026-10-27
+date: 2026-10-28
 tags:
   - company
   - job-outreach
@@ -15,7 +15,7 @@ generator: "job-garden: managed"
 
 - **Website:** [https://sefism.com/](https://sefism.com/)
 - **Careers:** [https://sefism.com/jobs](https://sefism.com/jobs)
-- **Job boards:** workable:devsinc-17, workable:pakistan-mobile-communication-limited-pmcl, workday:talentmanagementsolution.wd3.myworkdayjobs.com|contoursoftware-careers, greenhouse:n26, workable:creativechaos, greenhouse:scaleai, workable:inbox-business-technologies, breezy:dubizzlelabs, smartrecruiters:servicenow, ashby:xero, ashby:snowflake, greenhouse:figma, workday:spgi.wd5.myworkdayjobs.com|spgi_careers, workday:spgi.wd5.myworkdayjobs.com|spgi_careers\, workable:devsinc-17\, greenhouse:affirm, greenhouse:roblox, smartrecruiters:swiggy, smartrecruiters:deliveryhero, smartrecruiters:grab, greenhouse:pinterest, workable:remotebase, greenhouse:coinbase, smartrecruiters:aristanetworks, lever:educative, workable:pakistan-mobile-communication-limited-pmcl\, greenhouse:okta, workday:talentmanagementsolution.wd3.myworkdayjobs.com|contoursoftware-careers\, greenhouse:stripe, greenhouse:anthropic, ashby:openai, ashby:openai\, greenhouse:datadog, greenhouse:n26\u0026token=8163941\, ashby:xero\, workable:userwise-services, workable:userwise-services\, greenhouse:n26\u0026token=8163939\\
+- **Job boards:** workable:devsinc-17, workable:pakistan-mobile-communication-limited-pmcl, workday:talentmanagementsolution.wd3.myworkdayjobs.com|contoursoftware-careers, greenhouse:n26, workable:creativechaos, greenhouse:scaleai, workable:inbox-business-technologies, breezy:dubizzlelabs, smartrecruiters:servicenow, ashby:xero, ashby:snowflake, greenhouse:figma, workday:spgi.wd5.myworkdayjobs.com|spgi_careers, greenhouse:affirm, greenhouse:roblox, smartrecruiters:swiggy, smartrecruiters:deliveryhero, smartrecruiters:grab, greenhouse:pinterest, workable:remotebase, greenhouse:coinbase, smartrecruiters:aristanetworks, lever:educative, greenhouse:okta, greenhouse:stripe, greenhouse:anthropic, ashby:openai, greenhouse:datadog, workable:userwise-services
 
 ## What it builds
 

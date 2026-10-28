@@ -17,6 +17,7 @@ Every company with a drafted role: what it builds, its boards, the people found 
 - [Constructor](companies/constructor)
 - [Datum Labs](companies/datum)
 - [Devsinc](companies/devsinc)
+- [FAH Consul-Tech](companies/fah-consul-tech)
 - [Funavry Technologies](companies/funavry)
 - [Funprime Technology](companies/funprime)
 - [Instech Sol](companies/instech-sol)

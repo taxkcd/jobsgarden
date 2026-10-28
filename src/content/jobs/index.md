@@ -19,6 +19,7 @@ One page per role, by the week it was found; newest first.
 - [Integration Engineer (EMEA) — Constructor](jobs/006-constructor-integration-engineer-emea)
 - [Senior AI Engineer — Datum Labs](jobs/024-datum-labs-senior-ai-engineer)
 - [Associate Software Engineer- MERN — Devsinc](jobs/014-devsinc-associate-software-engineer-mern)
+- [Software Engineer — FAH Consul-Tech](jobs/027-fah-consul-tech-software-engineer)
 - [Full Stack Developer (MEAN + MERN) — Funavry Technologies](jobs/021-funavry-technologies-full-stack-developer-mean-mern)
 - [Full Stack Developer — Funprime Technology](jobs/025-funprime-technology-full-stack-developer)
 - [Developer — Instech Sol](jobs/017-instech-sol-developer)
