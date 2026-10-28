@@ -12,7 +12,9 @@ One page per role, by the week it was found; newest first.
 
 ## 2026-W44
 
+- [Senior Backend Engineer — AWS Deel](jobs/009-aws-deel-senior-backend-engineer)
 - [Senior AI Engineer — Datum Labs](jobs/003-datum-labs-senior-ai-engineer)
+- [Associate Software Engineer- MERN — Devsinc](jobs/008-devsinc-associate-software-engineer-mern)
 - [Software Engineer — FAH Consul-Tech](jobs/005-fah-consul-tech-software-engineer)
 - [Full Stack Developer (Node.js + React/Next.js) — Multisyn Tech](jobs/001-multisyn-tech-full-stack-developer-node-js-react-next-js)
 - [MERN Stack Developer — NovaSync Dynamics](jobs/002-novasync-dynamics-mern-stack-developer)

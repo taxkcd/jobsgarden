@@ -10,6 +10,6 @@ generator: "job-garden: managed"
 
 What was processed each day: the people and the companies; newest first.
 
-- [29 Oct 2026](days/2026-10-29) — 1 person, 1 company
+- [29 Oct 2026](days/2026-10-29) — 2 people, 1 company
 - [28 Oct 2026](days/2026-10-28) — 0 people, 3 companies
-- [27 Oct 2026](days/2026-10-27) — 0 people, 2 companies
+- [27 Oct 2026](days/2026-10-27) — 0 people, 3 companies

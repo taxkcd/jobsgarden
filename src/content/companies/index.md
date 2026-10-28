@@ -10,7 +10,9 @@ generator: "job-garden: managed"
 
 Every company with a drafted role: what it builds, its boards, the people found on its pages.
 
+- [AWS Deel](companies/aws-deel)
 - [Datum Labs](companies/datum)
+- [Devsinc](companies/devsinc)
 - [FAH Consul-Tech](companies/fah-consul-tech)
 - [Multisyn Tech](companies/multisyn-tech)
 - [NovaSync Dynamics](companies/novasync-dynamics)
