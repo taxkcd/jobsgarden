@@ -1,6 +1,6 @@
 ---
 title: "Companies"
-date: 2026-10-28
+date: 2026-11-01
 tags:
   - company
 generator: "job-garden: managed"
@@ -17,5 +17,6 @@ Every company with a drafted role: what it builds, its boards, the people found 
 - [Multisyn Tech](companies/multisyn-tech)
 - [NovaSync Dynamics](companies/novasync-dynamics)
 - [Remote Raven](companies/remote-raven)
+- [Volga Partners](companies/volga-partners)
 - [Wagmo](companies/wagmo)
 - [Xenoverta](companies/xenoverta)
