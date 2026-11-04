@@ -64,3 +64,18 @@ Team and product context: not stated
 Work model, location, authorization: Fully remote and/or hybrid, up to you!
 
 Compensation: Highly competitive compensation package, including annual discretionary bonus & optimized tax structure; top 1% of benefits across the web3 startup space; 100% of premiums covered on highest quality healthcare; aggressive company 401k match
+
+## People found at the company
+
+- **Niraj Pant** — Co-Founder · no address found · [source](https://ritual.net/team)
+- **Akilesh Potti** — Co-Founder · no address found · [source](https://ritual.net/team)
+- **Arshan Khanifar** — other · no address found · [source](https://ritual.net/team)
+- **Naveen Durvasula** — other · no address found · [source](https://ritual.net/team)
+- **Stelios Rousoglou** — other · no address found · [source](https://ritual.net/team)
+- **Mayank Pandey** — other · no address found · [source](https://ritual.net/team)
+- **Maryam Bahrani** — other · no address found · [source](https://ritual.net/team)
+- **Frieder Erdmann** — other · no address found · [source](https://ritual.net/team)
+- **Hadas Zeilberger** — other · no address found · [source](https://ritual.net/team)
+- **Praveen Palanisamy** — other · no address found · [source](https://ritual.net/team)
+- **Jody Rebak** — other · no address found · [source](https://ritual.net/team)
+- **Kartik Chopra** — other · no address found · [source](https://ritual.net/team)

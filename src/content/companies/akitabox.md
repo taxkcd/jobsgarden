@@ -1,6 +1,6 @@
 ---
 title: "AkitaBox"
-date: 2026-11-01
+date: 2026-11-04
 tags:
   - company
   - job-outreach
@@ -58,7 +58,7 @@ Recent developments the pages name:
 
 ## People found
 
-Nobody named on the company's own pages.
+- **Ken Jordan** — Former Business Development Executive for AkitaBox · no address found · [source](https://home.akitabox.com/blog/facilities-management-jobs-and-careers/)
 
 ## Roles tracked
 

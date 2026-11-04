@@ -1,6 +1,6 @@
 ---
 title: "G2i Inc."
-date: 2026-11-01
+date: 2026-11-04
 tags:
   - company
   - job-outreach
@@ -42,7 +42,12 @@ Recent developments the pages name:
 
 ## People found
 
-Nobody named on the company's own pages.
+- **Gabriel Ferreira** — Senior Talent Manager · no address found · [source](https://g2i.co/about)
+- **John Younger, PhD** — Talent Advisor · no address found · [source](https://g2i.co/about)
+- **Gabe Greenberg** — Founder & CEO · address found · [source](https://g2i.co/about)
+- **Jeff Rose** — General Advisor · no address found · [source](https://g2i.co/about)
+- **Thomas Kanar** — Finance Advisor · no address found · [source](https://g2i.co/about)
+- **Mike Dowhan** — Sales Advisor · no address found · [source](https://g2i.co/about)
 
 ## Roles tracked
 

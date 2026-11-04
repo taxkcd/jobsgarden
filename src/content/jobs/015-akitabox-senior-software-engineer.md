@@ -64,3 +64,7 @@ Team and product context: The company is a startup with about 40 employees, valu
 Work model, location, authorization: Remote from: Anywhere; Full time
 
 Compensation: Competitive Base; Medical, Dental and Vision Insurance; Unlimited Paid Time Off; Flexible Schedule
+
+## People found at the company
+
+- **Ken Jordan** — Former Business Development Executive for AkitaBox · no address found · [source](https://home.akitabox.com/blog/facilities-management-jobs-and-careers/)

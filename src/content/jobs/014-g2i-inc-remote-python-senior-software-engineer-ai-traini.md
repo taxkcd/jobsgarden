@@ -54,3 +54,12 @@ Team and product context: Not explicitly stated; role is individual contributor 
 Work model, location, authorization: Remote from anywhere; fixed term; 10-20 hours/week; $100-$200/hour depending on experience and location; eligibility may vary by location.
 
 Compensation: $100-$200/hour depending on experience and location
+
+## People found at the company
+
+- **Gabriel Ferreira** — Senior Talent Manager · no address found · [source](https://g2i.co/about)
+- **John Younger, PhD** — Talent Advisor · no address found · [source](https://g2i.co/about)
+- **Gabe Greenberg** — Founder & CEO · address found · [source](https://g2i.co/about)
+- **Jeff Rose** — General Advisor · no address found · [source](https://g2i.co/about)
+- **Thomas Kanar** — Finance Advisor · no address found · [source](https://g2i.co/about)
+- **Mike Dowhan** — Sales Advisor · no address found · [source](https://g2i.co/about)
