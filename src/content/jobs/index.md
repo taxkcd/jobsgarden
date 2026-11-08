@@ -1,6 +1,6 @@
 ---
 title: "Jobs"
-date: 2026-11-04
+date: 2026-11-08
 tags:
   - job-outreach
 generator: "job-garden: managed"
@@ -17,6 +17,7 @@ One page per role, by the week it was found; newest first.
 - [Developer — DevGate](jobs/023-devgate-developer)
 - [AI engineer (LLMs, agents, RAG) — Kokatta](jobs/019-kokatta-ai-engineer-llms-agents-rag)
 - [Senior - AI Engineer — NorthBay Solutions](jobs/018-northbay-solutions-senior-ai-engineer)
+- [AI Engineer — QUEST](jobs/024-quest-ai-engineer)
 - [Apply as a Developer — Sakb.tech](jobs/020-sakb-tech-apply-as-a-developer)
 
 ## 2026-W44

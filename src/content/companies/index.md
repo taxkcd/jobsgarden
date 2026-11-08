@@ -1,6 +1,6 @@
 ---
 title: "Companies"
-date: 2026-11-04
+date: 2026-11-08
 tags:
   - company
 generator: "job-garden: managed"
@@ -23,6 +23,7 @@ Every company with a drafted role: what it builds, its boards, the people found 
 - [Multisyn Tech](companies/multisyn-tech)
 - [NorthBay Solutions](companies/northbay-solutions)
 - [NovaSync Dynamics](companies/novasync-dynamics)
+- [QUEST](companies/quest)
 - [Remote Raven](companies/remote-raven)
 - [Ritual](companies/ritual)
 - [Sakb.tech](companies/sakb-tech)
